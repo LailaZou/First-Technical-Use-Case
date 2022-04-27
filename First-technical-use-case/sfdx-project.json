@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "First-technical-use-case",
+  "namespace": "",
+  "sfdcLoginUrl": "https://wise-koala-nvtat5-dev-ed.my.salesforce.com",
+  "sourceApiVersion": "54.0"
+}
